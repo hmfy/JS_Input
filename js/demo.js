@@ -1,8 +1,8 @@
 	var personArr = [
 					{name: '刘溜', src: 'image/yellow.bmp', des: '不好不好', age: '18', sex: 'm'},
 					{name: '赵莉莉', src: 'image/blue.bmp', des: '好不好', age: '11', sex: 'f'},
-					{name: '赵萌', src: 'image/orange.bmp', des: '嘿嘿嘿不好', age: '28', sex: 'f'},
-					{name: '王里', src: 'image/gray.bmp', des: '呵呵呵好', age: '8', sex: 'm'},
+					{name: '赵四', src: 'image/orange.bmp', des: '嘿嘿嘿不好', age: '28', sex: 'm'},
+					{name: '王里', src: 'image/gray.bmp', des: '呵呵呵好', age: '8', sex: 'f'},
 					{name: '王五', src: 'image/pink.bmp', des: '哈哈哈好', age: '19', sex: 'm'}
 	];
 
